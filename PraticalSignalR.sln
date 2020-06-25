@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PraticalSignalR", "PraticalSignalR\PraticalSignalR.csproj", "{C04934AD-D764-4807-B84D-AD99172B8870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "front", "front\front.csproj", "{A1491152-218B-4639-85C1-096D0FC09A90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C04934AD-D764-4807-B84D-AD99172B8870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C04934AD-D764-4807-B84D-AD99172B8870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C04934AD-D764-4807-B84D-AD99172B8870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C04934AD-D764-4807-B84D-AD99172B8870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1491152-218B-4639-85C1-096D0FC09A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1491152-218B-4639-85C1-096D0FC09A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1491152-218B-4639-85C1-096D0FC09A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1491152-218B-4639-85C1-096D0FC09A90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAFA88D5-EB60-4557-AAFC-2E6E99C76D1D}
+	EndGlobalSection
+EndGlobal
